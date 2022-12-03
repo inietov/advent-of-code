@@ -1,2 +1,4 @@
 input.txt
 real_input.txt
+.*
+!/.gitignore
